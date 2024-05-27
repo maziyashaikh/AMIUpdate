@@ -101,6 +101,43 @@
             </div>
         </div>
 </div> -->
+<div class="hero">
+        <img src="https://shravani.haribhaumusicals.com/wp-content/uploads/2024/05/track.png" alt="Background Image" class="background-image">
+        <div class="hero-content" style="    text-align: center;
+    left: auto;">
+         
+            <h1>Axis My India - Track Record </h1>
+            <p>Over 93% Accuracy</p>
+        </div>
+    </div>
+
+    <section>
+      <img src="https://shravani.haribhaumusicals.com/wp-content/uploads/2024/05/election-img.jpg" style="width: -webkit-fill-available;
+    padding: 20px;">
+    </section>
+    <div class="container tablerec">
+    <div class="section tabsec">
+    
+                <div class="table-container">
+                <table>
+                    <thead>
+                        <tr>
+                            <th>No. of Elections Including
+2014 8 2019 GE</th>
+                            <th>Most Accurate
+Predictions</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <td>69</td>
+                            <td>64</td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+        </div>
+        </div>
         <!-- Madhya Pradesh and Telangana Section -->
         <div class="container tablerec">
         <div class="section">
@@ -140,6 +177,7 @@
                 <div class="section">
                 <h2> TELANGANA (SEAT SHARE - 119 SEATS)</h2>  
                 <div class="table-container">
+                <div class="table-responsive">
                 <table>
                     <thead>
                         <tr>
@@ -170,6 +208,7 @@
                         </tr>
                     </tbody>
                 </table>
+                </div>
             </div>
             <p class="note">CONG+ = CONG & CPI | OTHERS include BSP, IND & Others. </p>
         </div>
@@ -237,7 +276,7 @@
                         <tr>
                             <td>RESULTS</td>
                             <td>54</td>
-                            <td>36/td>
+                            <td>36</td>
                             <td>0</td>
                         </tr>
                     </tbody>
@@ -272,9 +311,9 @@
                         <tr>
                             <td>RESULTS</td>
                             <td>27</td>
-                            <td>10/td>
+                            <td>10</td>
                             <td>1</td>
-                            <td>2/td>
+                            <td>2</td>
                             <td>-</td>
                         </tr>
                     </tbody>
@@ -312,7 +351,7 @@
                             <td>66</td>
                             <td>135+1*</td>
                             <td>19</td>
-                            <td>3/td>
+                            <td>3</td>
                            
                         </tr>
                     </tbody>
@@ -325,6 +364,7 @@
        
         <div class="section">
             <div class="table-container">
+              <div class="table-responsive">
                 <table>
                     <thead>
                         <tr>
@@ -370,12 +410,14 @@
                         </tr>
                     </tbody>
                 </table>
+                </div>
             </div>
             <p class="note">OTHERS includes: JDU, IND, RLD & RPP.</p>
         </div>
    
         <div class="section">
             <div class="table-container">
+            <div class="table-responsive">
                 <table>
                     <thead>
                         <tr>
@@ -414,6 +456,7 @@
                         </tr>
                     </tbody>
                 </table>
+                </div>
             </div>
             <p class="note">OTHERS includes: VPP, HSPDP, PDF, GNC, RPI(A), JD(U), GSP & INDEPENDENT.</p>
         </div>
@@ -446,7 +489,7 @@
                             <td>RESULTS</td>
                             <td>33</td>
                             <td>14</td>
-                            <td>13/td>
+                            <td>13</td>
                             <td>0</td>
                         </tr>
                     </tbody>
@@ -567,6 +610,7 @@
 
         <div class="section">
             <div class="table-container">
+            <div class="table-responsive">
                 <table>
                     <tr>
                         <th rowspan="7"><h3>UTTAR PRADESH</h3>(403 SEATS)</br> Seat by Seat </br> Right - 366 Seats</br> Accuracy - </br>90.59%</th>
@@ -606,6 +650,7 @@
                         <td>2</td>
                     </tr>
                 </table>
+                </div>
                 <table>
                     <thead>
                       <tr>
@@ -645,6 +690,7 @@
 
               <div class="section">
                 <div class="table-container">
+                <div class="table-responsive">
                   <table>
                     <tr>
                       <th rowspan="7"><h3>PUNJAB</h3><br>(117 SEATS)<br>Seat by Seat<br>Right - 106 Seats<br>Accuracy -<br>90.59%</th>
@@ -681,6 +727,7 @@
                       <td>1</td>
                     </tr>
                   </table>
+                  </div>
                   <table>
                     <thead>
                       <tr>
@@ -721,6 +768,7 @@
 
               <div class="section">
                 <div class="table-container">
+                <div class="table-responsive">
                   <table>
                     <tr>
                       <th rowspan="6"><h3>UTTARAKHAND</h3><br>(70 SEATS)<br>Seat by Seat<br>Right - 51 Seats<br>Accuracy -<br>72.85%</th>
@@ -752,6 +800,7 @@
                       <td>2</td>
                     </tr>
                   </table>
+                  </div>
                   <table>
                     <thead>
                       <tr>
@@ -787,6 +836,7 @@
 
                   <div class="section">
                     <div class="table-container">
+                    <div class="table-responsive">
                       <table>
                         <tr>
                           <th rowspan="8"><h3>MANIPUR</h3><br>(60 SEATS)<br>Seat by Seat<br>Right - 53 Seats<br>Accuracy -<br>88.33%</th>
@@ -828,6 +878,7 @@
                           <td>5</td>
                         </tr>
                       </table>
+                      </div>
                   
                       <table>
                         <thead>
@@ -873,6 +924,7 @@
                   
                   <div class="section">
                     <div class="table-container">
+                    <div class="table-responsive">
                 <table>
                     <tr>
                       <th rowspan="6"><h3>GOA</h3><br>(40 SEATS)<br>Seat by Seat<br>Right - 34 Seats<br>Accuracy -<br>85.00%</th>
@@ -904,6 +956,7 @@
                       <td>6</td>
                     </tr>
                   </table>
+                  </div>
                   <table>
                     <thead>
                       <th colspan="2">VOTE SHARE</th>
@@ -966,6 +1019,9 @@
                         </tr>
                     </tbody>
                 </table>
+             
+                </div>
+                <div class="table-container">
                 <table>
                     <thead>
                         <tr>
@@ -987,14 +1043,14 @@
                         </tr>
                     </tbody>
                 </table>
-                </div>
-            
+</div>
             <p class="note">Seat-by-Seat Accuracy: 511 (94%) correct predictions out of 542.</p>
         </div>
 
         <div class="section">
             <h2>Party Wise Vote Share(%)</h2>
             <div class="table-container">
+            <div class="table-responsive">
                 <table>
                     <tr>
                         <th rowspan="2">Alliance</th>
@@ -1043,7 +1099,7 @@
                         <td>28.4</td>
                     </tr>
                 </table>
-                
+                </div>
                 </div>
             
             <p class="note">Source: <a href="http://results.eci.gov.in/pc/en/partywise/index.htm" style="color:#0056b3;"> http://results.eci.gov.in/pc/en/partywise/index.htm</a></p>
@@ -1097,8 +1153,8 @@
                     </tr>
                     </tbody>
                     </table>
-                
-               
+                </div>
+                    <div class="table-container">
                 <table>
                     <thead>
                         <tr>
@@ -1130,8 +1186,10 @@
                     </tr>
                     </tbody>
                     </table>
+
                     </div>
-        </div>
+                    </div>
+     
         <div class="section">
             <div class="table-container">
                 <table>
@@ -1171,6 +1229,7 @@
     <p class="note">* Friendly Fight of AINRC (3) & AIADMK (1) candidate as Independent Won.</p>
     <div class="section">
         <div class="table-container">
+        <div class="table-responsive">
             <table>
                 <thead>
                     <tr>
@@ -1208,8 +1267,9 @@
                 </tr>
                 </tbody>
                 </table>
-            
-           
+        </div>
+            </div>
+            <div class="table-container">
             <table>
                 <thead>
                     <tr>
@@ -1249,6 +1309,7 @@
           <h3>Bihar Election 2020</h3>
           <h4><a href="#" style="color: #933993;font-weight: 600;text-decoration: underline;">Press Release</a></h4>
           <div class="table-container">
+          <div class="table-responsive">
             <table>
               <thead>
                 <tr>
@@ -1290,6 +1351,7 @@
                 </tr>
               </tbody>
             </table>
+            </div>
           </div>
           <p class="note">
             NDA - BJP, JDU, VIP & HAM | MGB - RJD, CONG, CPI(ML)L, CPI & CPI(M)
@@ -1733,6 +1795,7 @@
   
                         <div class="section">
                           <div class="table-container">
+                          <div class="table-responsive">
                             <table>
                               <thead>
                                 <tr>
@@ -1771,6 +1834,7 @@
                                 </tr>
                               </tbody>
                             </table>
+                            </div>
                           </div>
                         </div>
                         
@@ -2208,6 +2272,7 @@
                   
                   <div class="section">
                       <div class="table-container">
+                      <div class="table-responsive">
                   <table>
                   <thead>
                       <th colspan="6">(GE 2019) TELANGANA - 17 Seats</th>
@@ -2239,6 +2304,7 @@
                           </tr>
                       </tbody>
                       </table>
+                      </div>
                       </div>
                       </div>
                       <div class="section">
@@ -2622,42 +2688,44 @@
 
     <div class="section">
         <div class="table-container">
+        <div class="table-responsive">
             <table>
                 <thead>
                  <tr>
                     <th colspan="7"> ANDHRA PRADESH (AE 2019) - 175 Seats</th>
-                                        </tr>
-                                    </thead>
-                                    <tbody>
-                                        <tr>
-                                            <td>PARTY</td>
-                                            <td>YSRCP</td>
-                                            <td>TDP</td>
-                                            <td>JSP</td>
-                                            <td>CONG</td>
-                                            <td>BJP</td>
-                                            <td>OTHERS</td>
-                                        </tr>
-                                        <tr>
-                                            <td>Axis Prediction</td>
-                                            <td>119-135</td>
-                                            <td>39-51</td>
-                                            <td>1-3</td>
-                                            <td>0</td>
-                                            <td>0</td>
-                                            <td>0-2</td>
-                                        </tr>
-                                        <tr>
-                                            <td> Result</td>
-                                            <td>151</td>
-                                            <td>23</td>
-                                            <td>1</td>
-                                            <td>0</td>
-                                            <td>0</td>
-                                            <td>0</td>
-                                        </tr>
-                                    </tbody>
-                                </table>
+                    </tr>
+                    </td></thead>
+                    </td><tbody>
+                    </td></td> <tr>
+                    </td></td> </td> <td>PARTY</td>
+                    </td></td> </td> <td>YSRCP</td>
+                    </td></td> </td> <td>TDP</td>
+                    </td></td> </td> <td>JSP</td>
+                    </td></td> </td> <td>CONG</td>
+                    </td></td> </td> <td>BJP</td>
+                    </td></td> </td> <td>OTHERS</td>
+                    </td></td> </tr>
+                    </td></td> <tr>
+                    </td></td> </td> <td>Axis Prediction</td>
+                    </td></td> </td> <td>119-135</td>
+                    </td></td> </td> <td>39-51</td>
+                    </td></td> </td> <td>1-3</td>
+                    </td></td> </td> <td>0</td>
+                    </td></td> </td> <td>0</td>
+                    </td></td> </td> <td>0-2</td>
+                    </td></td> </tr>
+                    </td></td> <tr>
+                    </td></td> </td> <td> Result</td>
+                    </td></td> </td> <td>151</td>
+                    </td></td> </td> <td>23</td>
+                    </td></td> </td> <td>1</td>
+                    </td></td> </td> <td>0</td>
+                    </td></td> </td> <td>0</td>
+                    </td></td> </td> <td>0</td>
+                    </td></td> </tr>
+                    </td></tbody>
+                    </td> </td> </td> </table>
+                    </div>
                             </div>
                         </div>
 
@@ -2734,11 +2802,12 @@
                             </div>
                         </div>
                         
-                   
+    </td>            
 <div class="date">11 Dec, 2018</div>
     <div class="section">
         <div class="section">
             <div class="table-container">
+            <div class="table-responsive">
                 <table>
                     <thead>
                         <tr>
@@ -2772,6 +2841,7 @@
                         </tr>
                     </tbody>
                 </table>
+                </div>
             </div>
         </div>
         </div>
@@ -2780,6 +2850,7 @@
 
         <div class="section">
             <div class="table-container">
+            <div class="table-responsive">
                 <table>
                     <thead>
                         <tr>
@@ -2813,10 +2884,12 @@
                     </tbody>
                 </table>
             </div>
+            </div>
         </div>
     <div style="text-align: right; padding-right:360px; padding-top: -100px;">11 Dec, 2018</div>
         <div class="section">
                 <div class="table-container">
+                <div class="table-responsive">
                     <table>
                         <thead>
                             <tr>
@@ -2847,6 +2920,7 @@
                             </tr>
                         </tbody>
                     </table>
+                    </div>
                 </div>
             </div>
         </div>
@@ -2889,6 +2963,7 @@
 
                 <div class="section">
                     <div class="table-container">
+                    <div class="table-responsive">
                         <table>
                             <thead>
                                 <tr>
@@ -2932,6 +3007,7 @@
                     </tr>
                 </tbody>
             </table>
+            </div>
             </div>
             </div>
         <div class="date">15 May, 2018</div>
@@ -3264,6 +3340,7 @@
 <div class="date">23 Feb, 2017</div>
 <div class="section">
 <div class="table-container">
+<div class="table-responsive">
   <table>
     <thead>
       <tr>
@@ -3303,6 +3380,7 @@
       </tr>
     </tbody>
   </table>
+  </div>
 </div>
 </div>
 
@@ -3387,6 +3465,7 @@
 <div class="date">23 Feb, 2017</div>
 <div class="section">
 <div class="table-container">
+<div class="table-responsive">
   <table>
     <thead>
       <tr>
@@ -3420,6 +3499,7 @@
       </tr>
     </tbody>
   </table>
+  </div>
 </div>
 </div>
 
@@ -3572,6 +3652,7 @@
 
 <div class="section">
 <div class="table-container">
+<div class="table-responsive">
     <table>
         <thead>
             <tr>
@@ -3611,6 +3692,7 @@
             </tr>
         </tbody>
     </table>
+    </div>
 </div>
 </div>
 
@@ -3869,6 +3951,7 @@
 <div class="section">
 <div class="date">19 Oct, 2014</div>
 <div class="table-container">
+<div class="table-responsive">
     <table>
         <thead>
             <tr>
@@ -3902,6 +3985,7 @@
             </tr>
         </tbody>
     </table>
+    </div>
 </div>
 </div>
 
@@ -3947,6 +4031,7 @@
 <div class="section">
 <div class="date">23 Dec, 2014</div>
 <div class="table-container">
+<div class="table-responsive">
     <table>
         <thead>
             <tr>
@@ -3983,6 +4068,7 @@
             </tr>
         </tbody>
     </table>
+    </div>
 </div>
 </div>
 
